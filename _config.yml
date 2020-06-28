@@ -1,25 +1,24 @@
-title: Hello, world! I'm David Freeman
+title: Thomas Stoeckert's Themed Projects
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Blog Home for Thomas Stoeckert's creative projects related to the
+  Themed Entertainment industry. 
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/themed-projects" # the subpath of your site, e.g. /blog
+url: "https://thomas.stoeckert.us" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
+author: Thomas Stoeckert # add your name
+author-img: thomas-stoeckert.jpg # add your photo
+about-author: A BSCpE Student at UCF with a passion for Themed Entertainment and a history of combining story and technology. # add description
+social-twitter: thomasstoeckert # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: thomasstoeckert # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
