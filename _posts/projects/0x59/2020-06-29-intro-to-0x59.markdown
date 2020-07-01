@@ -1,0 +1,65 @@
+---
+layout: post
+title: Introduction to Project 0x59
+date: 2020-06-30 22:11:00 -0400
+description: Project 0x59 is my first foray into a fully self-designed attraction. Read more about how, what, and why I'm doing this here. # Add post description (optional)
+img: 0x54/generic-header.png # Add image post (optional)
+tags: [Project 0x59, Introduction]
+---
+> Deep in the florida everglades, a land known for its one-of-a-kind ecosystem, lay the rumors of mythical beasts of legend. Do you dare embark on a scientific expedition to catalog this wild landscape?
+
+# Project 0x59
+Project 0x59 is an experiement to determine how far I can go in themed entertainment attraction development. Basically, I've come up with a ride system and story and plan to pre-visualise the entire attraction. This includes (goals):
+* Show building layout
+* Track Layout
+* Set Design
+* Ride Animation
+* Audio
+* SAE
+* Lighting
+* An Interactive First-Person ride-through of the building and attraction.
+
+Seeing as I only have industry experience with actually doing one of those things (Ride Animation), we'll see how far I actually go with this project. I might invite the help of others as we get to more specialized fields - art and audio, especially - but for now I want to see what I can do. Hopefully I'll learn more about each of these fields in the process.
+
+# What do I have now?
+Currently, I've planned a ride system for Project 0x59 and begun work on a story outline for the attraction. After I left Universal Creative, the project began first as an attempt to recreate the workflow I had been taught for Ride Animation in a totally different software (Blender) than we had been using - and totally from memory. I had no files, videos, or guides saved from my time at the company, just my memory of the setup and what I've been told about problems they faced and solutions they came up with to solve it.
+
+I'll be talking more about the ride system in an upcoming post, but do note: for the sake of the team I worked with at Universal, I will not be revealing how the ride animation rig was set up, nor the code for any software tools I create to simplify the animation process or manage my rig. The information I will share will be more documenting how the system is controlled during the animation process, the abilities of the tools I've created, and my general ideas of how the ride would work / limitations I've placed upon it.
+
+Here's a photo of the rig as a teaser.
+
+![]({{site.baseurl}}/assets/img/0x54/ortho-offside.png)
+
+Story at this point is minimal. I have a few goals for what I'd like to happen, what I'd like the guest to experience, and what world and setting the story should be in. Determining a theme, establishing characters, building a world - all that might happen further on. But we'll see. As far as the quality goes, I'm going to attempt to tell an actual story. I'm likely going to end up in the unfortunate "Oo! It's a tour! And then it goes bad! Wohoo!" cliche that many attractions are known for. However, I am going to try and make it a fleshed-out world with a believable setup, setting, and experience. It likely won't be particularly new. My writing skillset is minimal at best. But we shall see.
+
+# What's next?
+The attraction is split at this point in its development, with each aspect waiting on the other to progress. The split is as follows:
+
+## Technical
+* Develop proper toolset for ride animation. This includes the following:
+  * Kinematic Limits Evaluation (Graph Display as a possible bonus - live updates would be a stretch goal)
+  * Animation Export (Actuator lengths, rotation encodings, etc.)
+  * Blender tools to assist in animation (Multi-vehicle manager, better position on track animation)
+* Layout of show building (Requires knowledge of story)
+* Create previs playback system in Unreal (requires animation export)
+* Anything else I might come up with
+
+## Story
+* Create story outline
+* Do some worldbuilding
+* Research the area, environment, people, and culture
+* Create characters for the story
+* Write the attraction "action" script
+* Write specific character dialogue
+
+## Artistic
+* Begin animation pass of ride (Requires show building layout)
+* Sketch some aspirational art for the ride vehicle, setting, etc.
+* Draw scenes, world
+* Create simple representations of set pieces to begin the real ride animation process
+* Anything else I might come up with.
+
+As you can see, there's a lot to do. Hopefully I actually do most of it.
+
+
+Anyway, I hope you look forward to my next post. I have no idea when I'll post it, but please stick around, checking my twitter for updates.

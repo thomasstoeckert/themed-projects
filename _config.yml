@@ -10,12 +10,11 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Thomas Stoeckert # add your name
 author-img: thomas-stoeckert.jpg # add your photo
-about-author: A BSCpE Student at UCF with a passion for Themed Entertainment and a history of combining story and technology. # add description
+about-author: A BSCpE Student at UCF who likes to combine storytelling and technology. # add description
 social-twitter: thomasstoeckert # add your Twitter handle
-social-facebook: # add your Facebook handle
 social-github: thomasstoeckert # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-linkedin: thomasstoeckert # add your Linkedin handle
+social-email: stoeckertthomas@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
