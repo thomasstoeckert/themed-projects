@@ -4,7 +4,7 @@ title: The Project 0x54 Ride System
 date: 2020-07-01 21:46:00 -0400
 description: An Introduction to the 0x54 Ride System # Add post description (optional)
 img: 0x54/generic-header.png # Add image post (optional)
-tags: [Project 0x54, Introduction]
+tags: [Project 0x54, Introduction, Ride System]
 ---
 
 # What can it do?
@@ -73,3 +73,5 @@ I can't give up all my good ideas for free.
 
 
 Thanks for reading :)
+
+![]({{site.baseurl}}/assets/img/0x54/ortho-offside.png)
