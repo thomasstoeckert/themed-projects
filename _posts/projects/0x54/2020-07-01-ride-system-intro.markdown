@@ -38,9 +38,15 @@ Moving on from that, let's explain how my concept works mechanically.
 
 # Wholly Unqualified Speculative Mechanics (WhUSpeM)
 Here's the current model.
-|Left | Top | Front |
-| :-: | :-: | :-:|
-| ![]({{site.baseurl}}/assets/img/0x54/ortho-side.png) | ![]({{site.baseurl}}/assets/img/0x54/ortho-top.png) | ![]({{site.baseurl}}/assets/img/0x54/ortho-front.png) |
+
+![]({{site.baseurl}}/assets/img/0x54/ortho-side.png)
+### Left
+
+![]({{site.baseurl}}/assets/img/0x54/ortho-top.png)
+### Top
+
+![]({{site.baseurl}}/assets/img/0x54/ortho-front.png)
+### Front
 
 Central to the ride system is the barrel o' monkeys (guests). Mounted to a floor spanning a chord of the barrel, 4x4 guests sit with to-be-determined restraints (Realistically, over the shoulder. Desired? Lap bars of some form). 
 
